@@ -1,0 +1,2157 @@
+['html', '\n', <html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>cnBeta.COM</title>
+<meta content="提供IT行业即时资讯" name="keywords">
+<meta content="提供IT行业即时资讯" name="description">
+<meta content="网易" name="author"/>
+<meta content="网易版权所有" name="Copyright"/>
+<link href="//www.163.com/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://static.ws.126.net/163/f2e/common/share-icon.png" rel="apple-touch-icon"/>
+<link href="https://static.ws.126.net/163/f2e/common/share-icon.png" rel="mask-icon"/>
+<link href="https://m.163.com/news/sub/T1477039371434.html" media="only screen and(max-width: 640px)" rel="alternate"/>
+<link href="https://www.163.com/dy/media/T1477039371434.html" rel="canonical"/>
+<meta content="https://static.ws.126.net/163/f2e/common/share-icon.png" name="msapplication-TileImage"/>
+<meta content="0" http-equiv="expires"/>
+<meta content="no-transform" http-equiv="Cache-Control"/>
+<meta content="no-siteapp" http-equiv="Cache-Control"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="index, follow" name="robots">
+<meta content="index, follow" name="googlebot">
+<meta content="article" property="og:type"/>
+<meta content="cnBeta.COM" property="og:title"/>
+<meta content="提供IT行业即时资讯" property="og:description"/>
+<meta content="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FAP5bl3YaKBnKqQQxkoD4mmxgeKnUqXNlHb6I3dDWg0X471477039370806.png&amp;thumbnail=125y125&amp;quality=95&amp;type=jpg" property="og:image"/>
+<meta content="网易" property="video:author"/>
+<meta content="summary" property="twitter:card"/>
+<meta content="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FAP5bl3YaKBnKqQQxkoD4mmxgeKnUqXNlHb6I3dDWg0X471477039370806.png&amp;thumbnail=125y125&amp;quality=95&amp;type=jpg" property="twitter:image"/>
+<meta content="cnBeta.COM" property="twitter:title"/>
+<meta content="网易新闻" property="twitter:creator"/>
+<meta content="网易" property="twitter:site"/>
+<meta content="cnBeta.COM" property="twitter:description"/>
+<base target="_blank"/><!--[if lte IE 6]></base><![endif]-->
+<script src="//static.ws.126.net/163/f2e/uploadfiles/img/cm163.js"></script>
+<link href="https://static.ws.126.net/163/f2e/news/author_index2022/static/css/main.7b5e3a17.css" rel="stylesheet"/>
+<script _keep="true" type="text/javascript">
+    var matchStr =window.location.href;
+    var reURL = /^(http):\/\//;
+    var isOnLine = (/www.163.com/).test(window.location.host)
+    if(reURL.test(matchStr) && isOnLine){
+        matchStr = matchStr.replace(reURL, function () {
+            return 'https://'
+        })
+        window.location.replace(matchStr)
+    }
+  </script>
+</meta></meta></meta></meta></head>
+<body>
+<div class="page_wrap">
+<link href="https://static.ws.126.net/163/f2e/commonnav2019/css/commonnav_headcss-fad753559b.css" rel="stylesheet">
+<!-- urs -->
+<script _keep="true" src="https://urswebzj.nosdn.127.net/webzj_cdn101/message.js" type="text/javascript"></script>
+<div class="ntes_nav_wrap" id="js_N_NTES_wrap">
+<div class="ntes-nav" id="js_N_nav">
+<div class="ntes-nav-main clearfix">
+<div class="c-fl" id="js_N_nav_left">
+<a class="ntes-nav-index-title ntes-nav-entry-wide c-fl" href="https://www.163.com/" title="网易首页">网易首页</a>
+<!-- 应用 -->
+<div class="js_N_navSelect ntes-nav-select ntes-nav-select-wide ntes-nav-app c-fl">
+<a class="ntes-nav-select-title ntes-nav-entry-bgblack JS_NTES_LOG_FE" href="https://www.163.com/#f=topnav">应用
+            <em class="ntes-nav-select-arr"></em>
+</a>
+<div class="ntes-nav-select-pop">
+<ul class="ntes-nav-select-list clearfix">
+<li>
+<a href="https://m.163.com/newsapp/#f=topnav">
+<span>
+<em class="ntes-nav-app-newsapp">网易新闻</em>
+</span>
+</a>
+</li>
+<li>
+<a href="https://open.163.com/#f=topnav">
+<span>
+<em class="ntes-nav-app-open">网易公开课</em>
+</span>
+</a>
+</li>
+<li>
+<a href="https://hongcai.163.com/?from=pcsy-button">
+<span>
+<em class="ntes-nav-app-hongcai">网易红彩</em>
+</span>
+</a>
+</li>
+<li>
+<a href="https://u.163.com/aosoutbdbd8">
+<span>
+<em class="ntes-nav-app-yanxuan">网易严选</em>
+</span>
+</a>
+</li>
+<li>
+<a href="https://mail.163.com/client/dl.html?from=mail46">
+<span>
+<em class="ntes-nav-app-mail">邮箱大师</em>
+</span>
+</a>
+</li>
+<li class="last">
+<a href="https://study.163.com/client/download.htm?from=163app&amp;utm_source=163.com&amp;utm_medium=web_app&amp;utm_campaign=business">
+<span>
+<em class="ntes-nav-app-study">网易云课堂</em>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="c-fr">
+<!-- 片段开始 -->
+<div class="ntes-nav-quick-navigation">
+<a class="ntes-nav-quick-navigation-btn" id="js_N_ntes_nav_quick_navigation_btn" rel="noreferrer" target="_self">
+<em>快速导航
+              <span class="menu1"></span>
+<span class="menu2"></span>
+<span class="menu3"></span>
+</em>
+</a>
+<div class="ntes-quicknav-pop" id="js_N_ntes_quicknav_pop">
+<div class="ntes-quicknav-list">
+<div class="ntes-quicknav-content">
+<ul class="ntes-quicknav-column ntes-quicknav-column-1">
+<li>
+<h3>
+<a href="https://news.163.com">新闻</a>
+</h3>
+</li>
+<li>
+<a href="https://news.163.com/domestic">国内</a>
+</li>
+<li>
+<a href="https://news.163.com/world">国际</a>
+</li>
+<li>
+<a href="https://view.163.com">评论</a>
+</li>
+<li>
+<a href="https://war.163.com">军事</a>
+</li>
+<li>
+<a href="https://news.163.com/special/wangsansanhome/">王三三</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-2">
+<li>
+<h3>
+<a href="https://sports.163.com">体育</a>
+</h3>
+</li>
+<li>
+<a href="https://sports.163.com/nba">NBA</a>
+</li>
+<li>
+<a href="https://sports.163.com/cba">CBA</a>
+</li>
+<li>
+<a href="https://sports.163.com/allsports">综合</a>
+</li>
+<li>
+<a href="https://sports.163.com/zc">中超</a>
+</li>
+<li>
+<a href="https://sports.163.com/world">国际足球</a>
+</li>
+<li>
+<a href="https://sports.163.com/yc">英超</a>
+</li>
+<li>
+<a href="https://sports.163.com/xj">西甲</a>
+</li>
+<li>
+<a href="https://sports.163.com/yj">意甲</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-3">
+<li>
+<h3>
+<a href="https://ent.163.com">娱乐</a>
+</h3>
+</li>
+<li>
+<a href="https://ent.163.com/star">明星</a>
+</li>
+<li>
+<a href="https://ent.163.com/photo">图片</a>
+</li>
+<li>
+<a href="https://ent.163.com/movie">电影</a>
+</li>
+<li>
+<a href="https://ent.163.com/tv">电视</a>
+</li>
+<li>
+<a href="https://ent.163.com/music">音乐</a>
+</li>
+<li>
+<a href="https://ent.163.com/special/gsbjb/">稿事编辑部</a>
+</li>
+<li>
+<a href="https://ent.163.com/special/fmgs/">封面故事</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-4">
+<li>
+<h3>
+<a href="https://money.163.com">财经</a>
+</h3>
+</li>
+<li>
+<a href="https://money.163.com/stock">股票</a>
+</li>
+<li>
+<a href="http://quotes.money.163.com/stock">行情</a>
+</li>
+<li>
+<a href="https://money.163.com/ipo">新股</a>
+</li>
+<li>
+<a href="https://money.163.com/finance">金融</a>
+</li>
+<li>
+<a href="https://money.163.com/fund">基金</a>
+</li>
+<li>
+<a href="https://biz.163.com">商业</a>
+</li>
+<li>
+<a href="https://money.163.com/licai">理财</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-5">
+<li>
+<h3>
+<a href="https://auto.163.com">汽车</a>
+</h3>
+</li>
+<li>
+<a href="https://auto.163.com/buy">购车</a>
+</li>
+<li>
+<a href="https://auto.163.com/depreciate">行情</a>
+</li>
+<li>
+<a href="http://product.auto.163.com">车型库</a>
+</li>
+<li>
+<a href="https://auto.163.com/elec">新能源</a>
+</li>
+<li>
+<a href="https://auto.163.com/news">行业</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-6">
+<li>
+<h3>
+<a href="https://tech.163.com">科技</a>
+</h3>
+</li>
+<li>
+<a href="https://tech.163.com/telecom/">通信</a>
+</li>
+<li>
+<a href="https://tech.163.com/it">IT</a>
+</li>
+<li>
+<a href="https://tech.163.com/internet">互联网</a>
+</li>
+<li>
+<a href="https://tech.163.com/special/chzt">特别策划</a>
+</li>
+<li>
+<a href="https://tech.163.com/smart/">网易智能</a>
+</li>
+<li>
+<a href="https://hea.163.com/">家电</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-7">
+<li>
+<h3>
+<a href="https://fashion.163.com">时尚</a>
+</h3>
+</li>
+<li>
+<a href="https://baby.163.com">亲子</a>
+</li>
+<li>
+<a href="https://fashion.163.com/art">艺术</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-8">
+<li>
+<h3>
+<a href="https://mobile.163.com">手机</a>
+<span>/</span>
+<a href="https://digi.163.com/">数码</a>
+</h3>
+</li>
+<li>
+<a href="https://tech.163.com/special/ydhlw">移动互联网</a>
+</li>
+<li>
+<a href="https://mobile.163.com/special/jqkj_list/">惊奇科技</a>
+</li>
+<li>
+<a href="https://mobile.163.com/special/cpshi_list/">易评机</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-9">
+<li>
+<h3>
+<a href="https://house.163.com">房产</a>
+<span>/</span>
+<a href="https://home.163.com">家居</a>
+</h3>
+</li>
+<li>
+<a href="https://bj.house.163.com">北京房产</a>
+</li>
+<li>
+<a href="https://sh.house.163.com">上海房产</a>
+</li>
+<li>
+<a href="https://gz.house.163.com">广州房产</a>
+</li>
+<li>
+<a href="https://house.163.com/city">全部分站</a>
+</li>
+<li>
+<a href="https://xf.house.163.com">楼盘库</a>
+</li>
+<li>
+<a href="https://home.163.com/jiaju/">家具</a>
+</li>
+<li>
+<a href="https://home.163.com/weiyu/">卫浴</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-10">
+<li>
+<h3>
+<a href="https://travel.163.com">旅游</a>
+</h3>
+</li>
+<li>
+<a href="https://travel.163.com/outdoor">自驾露营</a>
+</li>
+<li>
+<a href="https://travel.163.com/food">美食</a>
+</li>
+</ul>
+<ul class="ntes-quicknav-column ntes-quicknav-column-11">
+<li>
+<h3>
+<a href="https://edu.163.com">教育</a>
+</h3>
+</li>
+<li>
+<a href="https://edu.163.com/yimin">移民</a>
+</li>
+<li>
+<a href="https://edu.163.com/liuxue">留学</a>
+</li>
+<li>
+<a href="https://edu.163.com/en">外语</a>
+</li>
+<li>
+<a href="https://edu.163.com/gaokao">高考</a>
+</li>
+</ul>
+<div class="ntes-nav-sitemap">
+<a href="https://sitemap.163.com/">
+<i></i>查看网易地图</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-fr">
+<div class="c-fl" id="js_N_navLoginBefore">
+<div class="js_loginframe ntes-nav-login ntes-nav-login-normal" id="js_N_navHighlight">
+<a class="ntes-nav-login-title" href="https://reg.163.com/" id="js_N_nav_login_title">登录</a>
+<div class="ntes-nav-loginframe-pop" id="js_N_login_wrap">
+<!--加载登陆组件-->
+</div>
+</div>
+<div class="js_N_navSelect ntes-nav-select ntes-nav-select-wide JS_NTES_LOG_FE c-fl">
+<a class="ntes-nav-select-title ntes-nav-select-title-register" href="https://mail.163.com/register/index.htm?from=163navi®Page=163">注册免费邮箱
+                <em class="ntes-nav-select-arr"></em>
+</a>
+<div class="ntes-nav-select-pop">
+<ul class="ntes-nav-select-list clearfix" style="width:210px;">
+<li>
+<a href="https://reg1.vip.163.com/newReg1/reg?from=new_topnav&amp;utm_source=new_topnav">
+<span style="width:190px;">注册VIP邮箱（特权邮箱，付费）</span>
+</a>
+</li>
+<li class="last JS_NTES_LOG_FE">
+<a href="https://mail.163.com/client/dl.html?from=mail46">
+<span style="width:190px;">免费下载网易官方手机邮箱应用</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="c-fl" id="js_N_navLoginAfter" style="display:none">
+<div class="js_N_navSelect ntes-nav-select ntes-nav-logined JS_NTES_LOG_FE" id="js_N_logined_warp">
+<a class="ntes-nav-select-title ntes-nav-logined-userinfo">
+<span class="ntes-nav-logined-username" id="js_N_navUsername"></span>
+<em class="ntes-nav-select-arr"></em>
+</a>
+<div class="ntes-nav-select-pop" id="js_login_suggest_wrap">
+<ul class="ntes-nav-select-list clearfix" id="js_logined_suggest"></ul>
+</div>
+</div>
+<a class="ntes-nav-entry-wide c-fl" id="js_N_navLogout" target="_self">安全退出</a>
+</div>
+</div>
+<ul class="ntes-nav-inside">
+<li>
+<div class="js_N_navSelect ntes-nav-select c-fl">
+<a class="ntes-nav-mobile-title ntes-nav-entry-bgblack" href="https://www.163.com/newsapp/#f=163nav">
+<em class="ntes-nav-entry-mobile">移动端</em>
+</a>
+<div class="qrcode-img">
+<a href="https://www.163.com/newsapp/#f=163nav">
+<img src="//static.ws.126.net/f2e/include/common_nav/images/topapp.jpg"/>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="js_N_navSelect ntes-nav-select c-fl">
+<a class="ntes-nav-select-title ntes-nav-select-title-huatian ntes-nav-entry-bgblack" href="https://open.163.com/#ftopnav0" id="js_love_url">
+<em class="ntes-nav-entry-huatian">网易公开课</em>
+<em class="ntes-nav-select-arr"></em>
+<span class="ntes-nav-msg">
+<em class="ntes-nav-msg-num"></em>
+</span>
+</a>
+<div class="ntes-nav-select-pop ntes-nav-select-pop-huatian">
+<ul class="ntes-nav-select-list clearfix">
+<li>
+<a href="https://open.163.com/ted/#ftopnav1">
+<span>TED</span>
+</a>
+</li>
+<li>
+<a href="https://open.163.com/cuvocw/#ftopnav2">
+<span>中国大学视频公开课</span>
+</a>
+</li>
+<li>
+<a href="https://open.163.com/ocw/#ftopnav3">
+<span>国际名校公开课</span>
+</a>
+</li>
+<li>
+<a href="https://open.163.com/appreciation/#ftopnav4">
+<span>赏课·纪录片</span>
+</a>
+</li>
+<li>
+<a href="https://vip.open.163.com/#ftopnav5">
+<span>付费精品课程</span>
+</a>
+</li>
+<li>
+<a href="https://open.163.com/special/School/beida.html#ftopnav6">
+<span>北京大学公开课</span>
+</a>
+</li>
+<li class="last">
+<a href="https://open.163.com/newview/movie/courseintro?newurl=ME7HSJR07#ftopnav7">
+<span>英语课程学习</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="js_N_navSelect ntes-nav-select c-fl">
+<a class="ntes-nav-select-title ntes-nav-select-title-lofter ntes-nav-entry-bgblack" href="https://you.163.com/?from=web_fc_menhu_xinrukou_1" id="js_lofter_icon_url">
+<em class="ntes-nav-entry-lofter">网易严选</em>
+<em class="ntes-nav-select-arr"></em>
+<span class="ntes-nav-msg" id="js_N_navLofterMsg">
+<em class="ntes-nav-msg-num"></em>
+</span>
+</a>
+<div class="ntes-nav-select-pop ntes-nav-select-pop-lofter">
+<ul class="ntes-nav-select-list clearfix" id="js_lofter_pop_url">
+<li>
+<a href="https://act.you.163.com/act/pub/ABuyLQKNmKmK.html?from=out_ynzy_xinrukou_2">
+<span>新人特价</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/topic/v1/pub/Pew1KBH9Au.html?from=out_ynzy_xinrukou_3">
+<span>9.9专区</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/item/newItemRank?from=out_ynzy_xinrukou_4">
+<span>新品热卖</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/item/recommend?from=out_ynzy_xinrukou_5">
+<span>人气好物</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/item/list?categoryId=1005000&amp;from=out_ynzy_xinrukou_7">
+<span>居家生活</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/item/list?categoryId=1010000&amp;from=out_ynzy_xinrukou_8">
+<span>服饰鞋包</span>
+</a>
+</li>
+<li>
+<a href="https://you.163.com/item/list?categoryId=1011000&amp;from=out_ynzy_xinrukou_9">
+<span>母婴亲子</span>
+</a>
+</li>
+<li class="last">
+<a href="https://you.163.com/item/list?categoryId=1005002&amp;from=out_ynzy_xinrukou_10">
+<span>美食酒水</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="js_N_navSelect ntes-nav-select c-fl">
+<a class="ntes-nav-select-title ntes-nav-select-title-money ntes-nav-entry-bgblack" href="https://ecard.163.com/">
+<em class="ntes-nav-entry-money">支付</em>
+<em class="ntes-nav-select-arr"></em>
+</a>
+<div class="ntes-nav-select-pop ntes-nav-select-pop-temp">
+<ul class="ntes-nav-select-list clearfix">
+<li>
+<a href="https://ecard.163.com/#f=topnav">
+<span>一卡通充值</span>
+</a>
+</li>
+<li>
+<a href="https://ecard.163.com/script/index#f=topnav">
+<span>一卡通购买</span>
+</a>
+</li>
+<li>
+<a href="https://epay.163.com/">
+<span>我的网易支付</span>
+</a>
+</li>
+<li class="last">
+<a href="https://globalpay.163.com/home">
+<span>网易跨境支付</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="js_N_navSelect ntes-nav-select c-fl">
+<a class="ntes-nav-select-title ntes-nav-select-title-mail ntes-nav-entry-bgblack" id="js_mail_url" rel="noreferrer">
+<em class="ntes-nav-entry-mail">邮箱</em>
+<em class="ntes-nav-select-arr"></em>
+<span class="ntes-nav-msg" id="js_N_navMailMsg">
+<em class="ntes-nav-msg-num" id="js_N_navMailMsgNum"></em>
+</span>
+</a>
+<div class="ntes-nav-select-pop ntes-nav-select-pop-mail">
+<ul class="ntes-nav-select-list clearfix">
+<li>
+<a href="https://email.163.com/#f=topnav">
+<span>免费邮箱</span>
+</a>
+</li>
+<li>
+<a href="https://vipmail.163.com/#f=topnav">
+<span>VIP邮箱</span>
+</a>
+</li>
+<li>
+<a href="https://qiye.163.com/?from=NetEase163top">
+<span>企业邮箱</span>
+</a>
+</li>
+<li>
+<a href="https://mail.163.com/register/index.htm?from=ntes_nav®Page=163">
+<span>免费注册</span>
+</a>
+</li>
+<li class="last">
+<a href="https://mail.163.com/dashi/dlpro.html?from=mail46">
+<span>客户端下载</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script src="https://static.ws.126.net/163/f2e/commonnav2019/js/commonnav_headjs-b196c5c919.js"></script>
+<div class="container clearfix">
+<div class="user_box wrap clearfix">
+<div class="avatar">
+<img alt="cnBeta.COM" class="head_img" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FAP5bl3YaKBnKqQQxkoD4mmxgeKnUqXNlHb6I3dDWg0X471477039370806.png&amp;thumbnail=125y125&amp;quality=95&amp;type=jpg"/>
+<img alt="incentive-icons" class="incentive_icon" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fimg2.cache.netease.com%2Fm%2Fnewsapp%2Freading%2Fvip%2Fbluenew.png&amp;thumbnail=125y125&amp;quality=95&amp;type=jpg"/>
+</div>
+<div class="infos">
+<h2>cnBeta.COM</h2>
+<div class="data_box">
+<div class="item">
+<span>5.3万</span>
+<span>内容</span>
+</div>
+<div class="item">
+<span>0</span>
+<span>关注</span>
+</div>
+<div class="item">
+<span id="js-subscribe-count"></span>
+<span>粉丝</span>
+</div>
+</div>
+<div class="icon_line incentive">网易号科技内容作者</div>
+<div class="icon_line desc">提供IT行业即时资讯</div>
+<div class="icon_box">
+<div class="icon_div iplocation">浙江</div>
+<a class="user_more_btn js_more_info_btn">更多信息</a>
+</div>
+</div>
+</div>
+<div class="content_box wrap">
+<div class="content_left tab_wrap js-list-tab-box">
+<div class="tab_nav_box js-left-fix-box">
+<ul class="tab_nav">
+<li class="cur">全部</li>
+</ul>
+</div>
+<div class="tab_content">
+<ul class="list_box cur">
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA2H53C00511BLFD.html?spss=dy_author">
+<img alt="据传骁龙 8 Gen 4的GPU时钟速度比高频版Adreno 750还快25%" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F0deb568bj00siimh1001rd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA2H53C00511BLFD.html?spss=dy_author">据传骁龙 8 Gen 4的GPU时钟速度比高频版Adreno 750还快25%</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 20:39</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA2GILAO0511BLFD.html?spss=dy_author">
+<img alt="人工智能以前所未有的准确性预测地震" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F313000f1j00siimh20052d000hs00npg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA2GILAO0511BLFD.html?spss=dy_author">人工智能以前所未有的准确性预测地震</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 20:29</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA2CVECO0511BLFD.html?spss=dy_author">
+<img alt="NVIDIA GeForce RTX 4070 GDDR6今日发布 相同的GPU规格与价格" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F7a6d7120j00siik5i000ld000hs00c0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA2CVECO0511BLFD.html?spss=dy_author">NVIDIA GeForce RTX 4070 GDDR6今日发布 相同的GPU规格与价格</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 19:26</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA2CV91J0511BLFD.html?spss=dy_author">
+<img alt="骁龙 8 Gen 4 规格表在发布前泄露 双4.0GHz性能核心+Adreno 830 GPU" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fae126552j00siik5i001cd000hs0097g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA2CV91J0511BLFD.html?spss=dy_author">骁龙 8 Gen 4 规格表在发布前泄露 双4.0GHz性能核心+Adreno 830 GPU</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 19:26</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA26B5D60511BLFD.html?spss=dy_author">
+<img alt="用户不升级即将推出的苹果iPhone 16系列的最大原因是：买不起" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fb4158c7fj00siie1d0012d000hs00bjg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA26B5D60511BLFD.html?spss=dy_author">用户不升级即将推出的苹果iPhone 16系列的最大原因是：买不起</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 17:30</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA25NCDN0511BLFD.html?spss=dy_author">
+<img alt="美国科技巨头与印度电信公司争夺互联网服务监管权" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fea021436j00siie1d001jd000hs00fpg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA25NCDN0511BLFD.html?spss=dy_author">美国科技巨头与印度电信公司争夺互联网服务监管权</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 17:19</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA25N1OF0511BLFD.html?spss=dy_author">
+<img alt="天文学家推翻了恒星和暗物质在星系中相互补偿的理论" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fa0226174j00siie1d0014d000hs00hsg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA25N1OF0511BLFD.html?spss=dy_author">天文学家推翻了恒星和暗物质在星系中相互补偿的理论</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 17:19</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA252QUD0511BLFD.html?spss=dy_author">
+<img alt="研究人员在马拉维的太阳能电池废料中发现威胁生命的污染物质" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fa46bae66j00siicpd003fd000hs00qlg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA252QUD0511BLFD.html?spss=dy_author">研究人员在马拉维的太阳能电池废料中发现威胁生命的污染物质</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 17:08</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA252KO40511BLFD.html?spss=dy_author">
+<img alt="天文学家预测超大质量黑洞对一颗围绕行星的“进食时间”" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fabf355a7j00siicpd000gd000hs00big.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA252KO40511BLFD.html?spss=dy_author">天文学家预测超大质量黑洞对一颗围绕行星的“进食时间”</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 17:08</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA24GLOU0511BLFD.html?spss=dy_author">
+<img alt="三星Galaxy Tab S10+和Tab S10 Ultra将支持45W快速充电" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fa99c40e4j00siicpd000id000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA24GLOU0511BLFD.html?spss=dy_author">三星Galaxy Tab S10+和Tab S10 Ultra将支持45W快速充电</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 16:58</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA23T9KV0511BLFD.html?spss=dy_author">
+<img alt="新开发的机器学习模型可以提供高质量的创造力测试" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F3f052909j00siicpd001id000g000bkg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA23T9KV0511BLFD.html?spss=dy_author">新开发的机器学习模型可以提供高质量的创造力测试</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 16:47</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1OVIE90511BLFD.html?spss=dy_author">
+<img alt="美国陆军正测试一种自主洗消设备 让士兵远离化学和生物污染" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F9de50827j00sii2ka00d5d000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1OVIE90511BLFD.html?spss=dy_author">美国陆军正测试一种自主洗消设备 让士兵远离化学和生物污染</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 13:36</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GE1PB0511BLFD.html?spss=dy_author">
+<img alt="研究发现红肉中的血红素铁会使罹患2型糖尿病的风险增加26%" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F0776cf54j00sihvlv0020d000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GE1PB0511BLFD.html?spss=dy_author">研究发现红肉中的血红素铁会使罹患2型糖尿病的风险增加26%</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GE1FT0511BLFD.html?spss=dy_author">
+<img alt="SpaceX的私人太空行走任务将创下轨道高度新纪录" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F66ecfed3j00sihvlv0065d000hs009wg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GE1FT0511BLFD.html?spss=dy_author">SpaceX的私人太空行走任务将创下轨道高度新纪录</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDSQE0511BLFD.html?spss=dy_author">
+<img alt='NASA"洞察"号（InSight）登陆器发回的数据显示火星遭遇撞击频率惊人' src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fbdccaf60j00sihvlv000jd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDSQE0511BLFD.html?spss=dy_author">NASA"洞察"号（InSight）登陆器发回的数据显示火星遭遇撞击频率惊人</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDRI80511BLFD.html?spss=dy_author">
+<img alt="人工智能需求的爆发式增长导致数据中心用水量激增" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F591731b3j00sihvlv005ed000hs00ceg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDRI80511BLFD.html?spss=dy_author">人工智能需求的爆发式增长导致数据中心用水量激增</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDRHA0511BLFD.html?spss=dy_author">
+<img alt='研究发现使用 X 的 "iPad儿童"数量惊人' src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F7d21fbd6j00sihvlu0017d000hs00nmg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDRHA0511BLFD.html?spss=dy_author">研究发现使用 X 的 "iPad儿童"数量惊人</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDRH30511BLFD.html?spss=dy_author">
+<img alt="Waymo的新型自动驾驶出租车将减少传感器数量以降低成本" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fc2785a76j00sihvlu001kd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDRH30511BLFD.html?spss=dy_author">Waymo的新型自动驾驶出租车将减少传感器数量以降低成本</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDRP70511BLFD.html?spss=dy_author">
+<img alt="韦伯太空望远镜发现完美排列的恒星喷流" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F130887c4j00sihvlu0011d000hs00bag.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDRP70511BLFD.html?spss=dy_author">韦伯太空望远镜发现完美排列的恒星喷流</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDRJ40511BLFD.html?spss=dy_author">
+<img alt="考古学家在埃吉纳岛发现3600年前的古代皇家紫色染料作坊" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F576d1ee6j00sihvlv001id000hs00bmg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDRJ40511BLFD.html?spss=dy_author">考古学家在埃吉纳岛发现3600年前的古代皇家紫色染料作坊</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDJC20511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F25505b7cj00sihvlu0013d000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="美国海军乔治·H·W·布什号航空母舰安装世界首个无人空战中心"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDJC20511BLFD.html?spss=dy_author">美国海军乔治·H·W·布什号航空母舰安装世界首个无人空战中心</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1GDIJE0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fc4e64bf5j00sihvlv000wd000dv00acg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="装备摇臂的苹果混合型桌面设备现身供应链 预计售价1000美元"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1GDIJE0511BLFD.html?spss=dy_author">装备摇臂的苹果混合型桌面设备现身供应链 预计售价1000美元</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 11:07</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRI2A0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F2c5e5a3dj00sihvlu001ad000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="AMD 与 FreeBSD 开始合作改进操作系统"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRI2A0511BLFD.html?spss=dy_author">AMD 与 FreeBSD 开始合作改进操作系统</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRHD50511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F9ebd7c47j00sihvlu001nd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="人工智能将原本需要数月的镜头设计工作缩短为一天"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRHD50511BLFD.html?spss=dy_author">人工智能将原本需要数月的镜头设计工作缩短为一天</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRH800511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F7be637e0j00sihvlu000md000hs009mg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="北大西洋发现已灭绝鲸齿海象属哺乳动物新物种化石"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRH800511BLFD.html?spss=dy_author">北大西洋发现已灭绝鲸齿海象属哺乳动物新物种化石</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRFR50511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F276ab467j00sihvlu0012d000hs009pg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="三星下一代HBM4存储器将于2025年底投入量产 下季度完成流片"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRFR50511BLFD.html?spss=dy_author">三星下一代HBM4存储器将于2025年底投入量产 下季度完成流片</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRFB70511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F96b10428j00sihvlv00g6d000hs00cmg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Zoom Webinars模式现在可容纳多达100万名与会者"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRFB70511BLFD.html?spss=dy_author">Zoom Webinars模式现在可容纳多达100万名与会者</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA1FRCQG0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fd56f30c6j00sihvlu000md000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="研究发现气温升高影响地球自转轴导致其减速"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA1FRCQG0511BLFD.html?spss=dy_author">研究发现气温升高影响地球自转轴导致其减速</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 10:57</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA14TKIM0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F13503e3ej00sihnkt000sd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Procreate 告诉用户：“人工智能不是我们的未来”"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA14TKIM0511BLFD.html?spss=dy_author">Procreate 告诉用户：“人工智能不是我们的未来”</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 07:46</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA14TI980511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F9c299a7cj00sihnkt001fd000hs0096g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="泄露的幻灯片显示骁龙8 Gen 4是一款3纳米芯片 配备 Oryon CPU"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA14TI980511BLFD.html?spss=dy_author">泄露的幻灯片显示骁龙8 Gen 4是一款3纳米芯片 配备 Oryon CPU</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 07:46</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA14THIF0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F0e68e711j00sihnkt000ad000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Apple Podcasts 现在可在网页上收听"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA14THIF0511BLFD.html?spss=dy_author">Apple Podcasts 现在可在网页上收听</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 07:46</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA14TGCN0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F76b55b66j00sihnkt000vd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="新研发的光激活植入物可使婴儿免于多次心脏手术"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA14TGCN0511BLFD.html?spss=dy_author">新研发的光激活植入物可使婴儿免于多次心脏手术</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 07:46</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA0D26H80511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2Fb4b869b0j00sih3d3000od000hs00c1g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="蜘蛛被发现会操纵雄性萤火虫的发光方式 以吸引更多的同类触网"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA0D26H80511BLFD.html?spss=dy_author">蜘蛛被发现会操纵雄性萤火虫的发光方式 以吸引更多的同类触网</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 00:49</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA0CFLPB0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F5c7527d9j00sih1200015d000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="通用汽车宣布裁减1000个软件岗位 未来将优先考虑平台质量和AI运用"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA0CFLPB0511BLFD.html?spss=dy_author">通用汽车宣布裁减1000个软件岗位 未来将优先考虑平台质量和AI运用</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 00:39</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA0CFL6V0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F33001384j00sih3rj000md000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="调查显示用户较为关注iPhone 16的定价和Apple Intelligence功能"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA0CFL6V0511BLFD.html?spss=dy_author">调查显示用户较为关注iPhone 16的定价和Apple Intelligence功能</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 00:39</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA0BS21J0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F299ae866j00sih3d3000sd000hs0095g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="特斯拉正招聘机器人训练员：穿动作捕捉服戴上VR头显 每小时可赚48美元"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA0BS21J0511BLFD.html?spss=dy_author">特斯拉正招聘机器人训练员：穿动作捕捉服戴上VR头显 每小时可赚48美元</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 00:28</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA0BRJDP0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0820%2F5ef5505dj00sih3d3000jd000hs00a6g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="分析师认为埃隆·马斯克可能出售数十亿特斯拉股票以填补X的财务漏洞"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA0BRJDP0511BLFD.html?spss=dy_author">分析师认为埃隆·马斯克可能出售数十亿特斯拉股票以填补X的财务漏洞</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-20 00:28</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA06VSNA0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Ff5d9240bj00sigyae001cd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Raspberry Pi 5 有了更便宜的 2GB 型号"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA06VSNA0511BLFD.html?spss=dy_author">Raspberry Pi 5 有了更便宜的 2GB 型号</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 23:03</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA06DU8T0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Fb2b0558aj00sigyae000nd000hs009fg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="罗曼望远镜抵达美国国家航空航天局戈达德基地 准备揭开宇宙之谜"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA06DU8T0511BLFD.html?spss=dy_author">罗曼望远镜抵达美国国家航空航天局戈达德基地 准备揭开宇宙之谜</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 22:53</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/JA01I2NJ0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F3592f4a6j00siguze002md000hs00d8g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="沃尔玛计划在2026年前用电子货架标签（ESL）取代传统纸质价格标签"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/JA01I2NJ0511BLFD.html?spss=dy_author">沃尔玛计划在2026年前用电子货架标签（ESL）取代传统纸质价格标签</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 21:28</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VRCEN60511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F070dce43j00sigpgd000ud000go0103g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt='苹果iPhone 16发布会将于9月10日举行 主题为"准备,开始,捕捉"'/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VRCEN60511BLFD.html?spss=dy_author">苹果iPhone 16发布会将于9月10日举行 主题为"准备,开始,捕捉"</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 19:40</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VJEBRP0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F40a4b5f9j00sigizn000td000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="ASML CEO认为欧洲需要中国的成熟制程芯片来维持需求 但其技术已落后10年"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VJEBRP0511BLFD.html?spss=dy_author">ASML CEO认为欧洲需要中国的成熟制程芯片来维持需求 但其技术已落后10年</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:21</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VJDTB90511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Fbd262a57j00sigi270014d000hs00gvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="哈勃带你探索UGC 11861：一个充满恒星形成和超新星事件的星系"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VJDTB90511BLFD.html?spss=dy_author">哈勃带你探索UGC 11861：一个充满恒星形成和超新星事件的星系</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:21</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VJDSUC0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Fc1edf3d7j00sigizn000pd000hs00dig.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="NASA与公民科学家合作 发现以100万英里超高时速逃离的神秘天体"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VJDSUC0511BLFD.html?spss=dy_author">NASA与公民科学家合作 发现以100万英里超高时速逃离的神秘天体</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:21</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VJDPBG0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F86da2855j00sigi27000hd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="为应对竞争 耳机制造商们正在不断创新"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VJDPBG0511BLFD.html?spss=dy_author">为应对竞争 耳机制造商们正在不断创新</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:21</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VIRHE80511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F35c7667fj00sigcge002od000hs00qeg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="革命性的量子罗盘很快就能让无卫星导航成为现实"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VIRHE80511BLFD.html?spss=dy_author">革命性的量子罗盘很快就能让无卫星导航成为现实</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:11</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VIRGUM0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F7ec6aaa4j00sigczd000kd000hs00i5g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="受昆虫和蟹壳启发的室温金属加工工艺改进"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VIRGUM0511BLFD.html?spss=dy_author">受昆虫和蟹壳启发的室温金属加工工艺改进</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:11</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VIRH420511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F9970ee8cj00sigczd000xd000hs00hng.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="老照片：NASA阿波罗15号飞船拍摄月球地平线上的地球"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VIRH420511BLFD.html?spss=dy_author">老照片：NASA阿波罗15号飞船拍摄月球地平线上的地球</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:11</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VIDA620511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F6646c1caj00sigc1a001bd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="一些通常被认为是健康的食品和饮料中也藏有糖和不饱和脂肪"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VIDA620511BLFD.html?spss=dy_author">一些通常被认为是健康的食品和饮料中也藏有糖和不饱和脂肪</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:03</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9VID93K0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F13bad304j00sigc1a000wd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="苹果可能在下月发布两款全新的 AirPods 4"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9VID93K0511BLFD.html?spss=dy_author">苹果可能在下月发布两款全新的 AirPods 4</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 17:03</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9V1TNBV0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F070131eaj00sig52d0072d000hs00xzg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="地质学家发现最大的火成岩完全形成于地球演化史的中期"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9V1TNBV0511BLFD.html?spss=dy_author">地质学家发现最大的火成岩完全形成于地球演化史的中期</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 12:15</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOJA80511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F94eb930dj00sifxnl000md000hs00aqg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="感觉生活不那么充实？这可能是罹患痴呆症的早期征兆"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOJA80511BLFD.html?spss=dy_author">感觉生活不那么充实？这可能是罹患痴呆症的早期征兆</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOINL0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Fa9106707j00sifxnl001ad000hs00b3g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Windows 10 的 MSN Feed 功能现在可覆盖超过一半的桌面屏幕"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOINL0511BLFD.html?spss=dy_author">Windows 10 的 MSN Feed 功能现在可覆盖超过一半的桌面屏幕</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOGVO0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F8de3575aj00sifxnl00gmd000di00nvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="F1正强迫一些赛事内容创作者更改自己的账户名称"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOGVO0511BLFD.html?spss=dy_author">F1正强迫一些赛事内容创作者更改自己的账户名称</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOHPM0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F2f340d6cj00sifxnl00hgd000hs00i9g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Waymo的自动驾驶出租车站仍在按喇叭吵醒旧金山的邻居们"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOHPM0511BLFD.html?spss=dy_author">Waymo的自动驾驶出租车站仍在按喇叭吵醒旧金山的邻居们</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOFHD0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2Fe6191617j00sifxnl000ld000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="密苏里大学研究人员刚刚找到了从水中消除98%微塑料的方法"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOFHD0511BLFD.html?spss=dy_author">密苏里大学研究人员刚刚找到了从水中消除98%微塑料的方法</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOEPL0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F2cfb2f38j00sifxnl001dd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="一半以上美国大型企业认为AI是其业务的潜在风险"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOEPL0511BLFD.html?spss=dy_author">一半以上美国大型企业认为AI是其业务的潜在风险</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UOOEQD0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F3c2fe46fj00sifxnl000od000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="NASA发射先进的Tanager-1卫星 追踪气候变化罪魁祸首"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UOOEQD0511BLFD.html?spss=dy_author">NASA发射先进的Tanager-1卫星 追踪气候变化罪魁祸首</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:35</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UNI4F30511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F4ac1e91dj00sifwoc0016d000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="导致6600万年前恐龙灭绝的小行星可能来自外太阳系"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UNI4F30511BLFD.html?spss=dy_author">导致6600万年前恐龙灭绝的小行星可能来自外太阳系</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:14</span>
+</div>
+</div>
+</li>
+<li class="js-item item nocover">
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UMTRN40511BLFD.html?spss=dy_author">微软刚刚发布的 Windows 11 Canary版本有点令人困惑</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 09:03</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9UMA7V10511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F1db1fb5cj00sifvam000td000hs00a1g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="泄露信息显示第四种iPhone 16 Pro颜色更偏向暗金色而非棕色"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9UMA7V10511BLFD.html?spss=dy_author">泄露信息显示第四种iPhone 16 Pro颜色更偏向暗金色而非棕色</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 08:52</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TPPU6M0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0819%2F25e3a913j00sif91p004yd000hs00npg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="尼安德特人时代独特的考古遗址揭示了其鲜为人知的历史"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TPPU6M0511BLFD.html?spss=dy_author">尼安德特人时代独特的考古遗址揭示了其鲜为人知的历史</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 00:34</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TP5L0L0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F9c3fe1dcj00sif84a000wd000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="NASA静音超音速X-59实验飞机进入最后测试阶段 向首飞迈进"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TP5L0L0511BLFD.html?spss=dy_author">NASA静音超音速X-59实验飞机进入最后测试阶段 向首飞迈进</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 00:23</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TP5KPT0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F7b66f9cej00sif84a001rd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="太空观测揭示水坝如何保护利比亚班加西"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TP5KPT0511BLFD.html?spss=dy_author">太空观测揭示水坝如何保护利比亚班加西</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-19 00:23</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TEU9BJ0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F9ea38974j00siezvb0015d000hs00bag.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="微软对Windows 11 Recall AI的未来保持沉默"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TEU9BJ0511BLFD.html?spss=dy_author">微软对Windows 11 Recall AI的未来保持沉默</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 21:24</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TES3M40511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F6b8b17abj00siezvb000td000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="古老的藻海森林颠覆了我们关于海洋的认识"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TES3M40511BLFD.html?spss=dy_author">古老的藻海森林颠覆了我们关于海洋的认识</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 21:23</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9TES2UE0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F3ca7125fj00siezvb000qd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="创新化合物采用全新机制杀死癌细胞"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9TES2UE0511BLFD.html?spss=dy_author">创新化合物采用全新机制杀死癌细胞</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 21:23</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9T0VAIB0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F51209cb1j00sieoky001ld000hs00jmg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Google为Android设备推出新的Gemini面板发光动画效果"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9T0VAIB0511BLFD.html?spss=dy_author">Google为Android设备推出新的Gemini面板发光动画效果</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 17:20</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9T0V97Q0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F203f444cj00sieokx000ld000hs00d4g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="哈勃望远镜探测到来自宇宙另一端的神秘射电爆发"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9T0V97Q0511BLFD.html?spss=dy_author">哈勃望远镜探测到来自宇宙另一端的神秘射电爆发</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 17:20</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SQ8VFC0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fc3bfa02fj00sieinr000td000hs00ckg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="人类生命何时算是真正开始？哈佛科学家探索新视角"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SQ8VFC0511BLFD.html?spss=dy_author">人类生命何时算是真正开始？哈佛科学家探索新视角</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:23</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPL9VO0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F530bc300j00sieins0012d000hs00cug.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="地球物理学家破解神秘的深层地震信号PKP"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPL9VO0511BLFD.html?spss=dy_author">地球物理学家破解神秘的深层地震信号PKP</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPL00S0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F7211e828j00sieinq001bd000hs00b6g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="仿生叶状聚光器可大幅提高太阳能光电转换效率"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPL00S0511BLFD.html?spss=dy_author">仿生叶状聚光器可大幅提高太阳能光电转换效率</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPL0EF0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fd42a355fj00sieinr000jd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="来自大西洋热带海洋的新发现正改写气候模式规则"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPL0EF0511BLFD.html?spss=dy_author">来自大西洋热带海洋的新发现正改写气候模式规则</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKV7H0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F9b5fe667j00sieins0018d000hs00hng.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="科学家在在远古单细胞生物体中发现神经系统的基石：离子通道"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKV7H0511BLFD.html?spss=dy_author">科学家在在远古单细胞生物体中发现神经系统的基石：离子通道</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKVL60511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F0cf0fac5j00sieins001wd000hs00qog.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt='Palantir CEO亚历克斯-卡普表态"不会为军事工作道歉"'/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKVL60511BLFD.html?spss=dy_author">Palantir CEO亚历克斯-卡普表态"不会为军事工作道歉"</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item nocover">
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKVDK0511BLFD.html?spss=dy_author">微软将提高Windows 11的能效 新增"电源模式"设置</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKT5P0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F863d6612j00sieins000zd000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="微星展示 CAMM2 台式电脑内存"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKT5P0511BLFD.html?spss=dy_author">微星展示 CAMM2 台式电脑内存</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKSJ30511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fe6af03b2j00sieins0011d000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="富士康总裁未明确反驳印度招聘歧视指控"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKSJ30511BLFD.html?spss=dy_author">富士康总裁未明确反驳印度招聘歧视指控</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKRC80511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F790421bdj00sieinr001gd000hs00bug.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="化石记录在变化 人类活动使科学家更难解读海洋的过去"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKRC80511BLFD.html?spss=dy_author">化石记录在变化 人类活动使科学家更难解读海洋的过去</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKR0Q0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fa0d6af8aj00sieins000wd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="从文字到轨迹：麻省理工学院的AI用语言帮助机器人完成复杂的导航任务"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKR0Q0511BLFD.html?spss=dy_author">从文字到轨迹：麻省理工学院的AI用语言帮助机器人完成复杂的导航任务</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKQH30511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F1b274003j00sieins00ghd000hs00hig.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="X 表示将关闭在巴西的业务"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKQH30511BLFD.html?spss=dy_author">X 表示将关闭在巴西的业务</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKQEU0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F29a43147j00sieinr001yd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="大型强子对撞机的光束管道接近揭开磁单极子的秘密"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKQEU0511BLFD.html?spss=dy_author">大型强子对撞机的光束管道接近揭开磁单极子的秘密</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKQ1S0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F9075c3cbj00sieinr0012d000hs008cg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt='南希·佩洛西声明反对加州人工智能法案 批评其"缺乏立法依据"'/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKQ1S0511BLFD.html?spss=dy_author">南希·佩洛西声明反对加州人工智能法案 批评其"缺乏立法依据"</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKPS80511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F8115cfd0j00sieinu000vd000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="SpaceX在第五次发射前测试“星际飞船”最大、最危险的机动动作"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKPS80511BLFD.html?spss=dy_author">SpaceX在第五次发射前测试“星际飞船”最大、最危险的机动动作</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKPK90511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Ff879aad8j00sieinr000ud000hs00dqg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="宜家扩充库存无人机队 用于全天候盘点库存"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKPK90511BLFD.html?spss=dy_author">宜家扩充库存无人机队 用于全天候盘点库存</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9SPKPOR0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fcab9420dj00sieinr000wd000hs00kig.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="跟着哈勃望远镜在前排观看FS Tau星系发射的“宇宙烟花”"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9SPKPOR0511BLFD.html?spss=dy_author">跟着哈勃望远镜在前排观看FS Tau星系发射的“宇宙烟花”</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 15:12</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF32BF0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F7bea3337j00sidjyw005od000hs009bg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="NVIDIA CEO黄仁勋预计将再次访问台湾 可能出席2024亚洲智能博览会"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF32BF0511BLFD.html?spss=dy_author">NVIDIA CEO黄仁勋预计将再次访问台湾 可能出席2024亚洲智能博览会</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2T9G0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F4cc079e3j00sidjyw000zd000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="研究表明大陆断裂会引起深层地球波 带来悬崖和高原等地形特征"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2T9G0511BLFD.html?spss=dy_author">研究表明大陆断裂会引起深层地球波 带来悬崖和高原等地形特征</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2SPD0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fbb648e13j00sidjyw001gd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="物理学家用悬浮纳米钻石举办世界上最微小的迪斯科派对"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2SPD0511BLFD.html?spss=dy_author">物理学家用悬浮纳米钻石举办世界上最微小的迪斯科派对</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2QEB0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F954ae483j00sidjyw000id000hs0097g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="印度Ola发布首款人工智能芯片Bodhi 1"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2QEB0511BLFD.html?spss=dy_author">印度Ola发布首款人工智能芯片Bodhi 1</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2QI40511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fd9d9b4f8j00sidjyx000td000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="机器学习带来的新见解挑战星系形成理论"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2QI40511BLFD.html?spss=dy_author">机器学习带来的新见解挑战星系形成理论</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2R2P0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F8f9fbbaaj00sidjyw000sd000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="中科海光C86-7490 CPU现身闲鱼 配备64个AMD Zen内核"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2R2P0511BLFD.html?spss=dy_author">中科海光C86-7490 CPU现身闲鱼 配备64个AMD Zen内核</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2PUN0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fd9bc84f5j00sidjyw001gd000hs00hsg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="挪威斯瓦尔巴群岛面临危机：冰川融化速度前所未有 气温还在飙升"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2PUN0511BLFD.html?spss=dy_author">挪威斯瓦尔巴群岛面临危机：冰川融化速度前所未有 气温还在飙升</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2ONV0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fad7a4de6j00sidjyw000ud000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="离线Google地图现可用于Wear OS智能手表"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2ONV0511BLFD.html?spss=dy_author">离线Google地图现可用于Wear OS智能手表</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2O3J0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F61d8f77ej00sidjyw000jd000hs00a1g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="认识微观世界的小偷：用偷来的基因对抗感染"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2O3J0511BLFD.html?spss=dy_author">认识微观世界的小偷：用偷来的基因对抗感染</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2NQ20511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F575d3747j00sidjyw001fd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="NVIDIA和 OpenAI 因使用在线视频而面临 YouTube 创作者诉讼"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2NQ20511BLFD.html?spss=dy_author">NVIDIA和 OpenAI 因使用在线视频而面临 YouTube 创作者诉讼</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2O0R0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F5dea49e2j00sidjyw0009d000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="Tensor G4在Pixel 9 Pro XL中运行时 其性能上限被限制在50% 热效率低下"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2O0R0511BLFD.html?spss=dy_author">Tensor G4在Pixel 9 Pro XL中运行时 其性能上限被限制在50% 热效率低下</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2NNB0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2Fb20e9b3dj00sidjyw001id000hs00a0g.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="植物生长时为什么会扭动？科学家解开令查尔斯·达尔文困惑的千古之谜"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2NNB0511BLFD.html?spss=dy_author">植物生长时为什么会扭动？科学家解开令查尔斯·达尔文困惑的千古之谜</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2O0I0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F90149a1cj00sidjyw0012d000hs00dcg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="简单的化学加成：研究人员发现延长太阳能电池寿命的关键"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2O0I0511BLFD.html?spss=dy_author">简单的化学加成：研究人员发现延长太阳能电池寿命的关键</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+<li class="js-item item">
+<a class="img" href="https://www.163.com/dy/article/J9RF2NOP0511BLFD.html?spss=dy_author">
+<img _src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0818%2F33e89565j00sidjyw000sd000hs00bvg.jpg&amp;thumbnail=169y90&amp;quality=95&amp;type=jpg" alt="探索翼龙飞行之谜：四足起飞形态得到证实"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J9RF2NOP0511BLFD.html?spss=dy_author">探索翼龙飞行之谜：四足起飞形态得到证实</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-18 02:48</span>
+</div>
+</div>
+</li>
+</ul>
+<p class="no_more_tip">没有更多了...</p>
+</div>
+</div>
+<div class="content_right">
+<div class="content_right js-right-fix-box">
+<div class="tab_wrap js-filter-tab-box">
+<div class="navs_list">
+<span class="nav_title">近期热门内容</span>
+<ul class="tab_nav mini">
+<li class="cur">近一月</li>
+<li class="">近半年</li>
+</ul>
+</div>
+<div class="tab_content tab_content_s">
+<ul class="list_box cur">
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/J855ETUE0511BLFD.html?spss=dy_author">
+<img alt="特斯拉警告：不要用湿毛巾加速电动车充电 无法提升速度还有潜在危险" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0728%2Fde70849aj00shai0400vrd000hs00psg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J855ETUE0511BLFD.html?spss=dy_author">特斯拉警告：不要用湿毛巾加速电动车充电 无法提升速度还有潜在危险</a>
+</h4>
+<div class="tail">
+<span class="time">2024-07-28 00:41</span>
+</div>
+</div>
+</li>
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/J8N0GOS60511BLFD.html?spss=dy_author">
+<img alt='特斯拉起诉"极不安全"的分离式电动汽车充电适配器制造商' src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0803%2Fc14a20d2j00shnc2d000hd000hs00bvg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J8N0GOS60511BLFD.html?spss=dy_author">特斯拉起诉"极不安全"的分离式电动汽车充电适配器制造商</a>
+</h4>
+<div class="tail">
+<span class="time">2024-08-03 23:01</span>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list_box">
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/J18GGGMN0511BLFD.html?spss=dy_author">
+<img alt="Google刚刚从Android内核中移除了对RISC-V的支持" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0503%2Fee0a77c4j00scvt35001bd000hs00a0g.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J18GGGMN0511BLFD.html?spss=dy_author">Google刚刚从Android内核中移除了对RISC-V的支持</a>
+</h4>
+<div class="tail">
+<span class="time">2024-05-03 08:02</span>
+</div>
+</div>
+</li>
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/J4RRKDK20511BLFD.html?spss=dy_author">
+<img alt="1992年在法国安装的太阳能电池板被发现保留了79%的原始输出功率" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0617%2Fc3bf7155j00sf6ri0001md000hs00axg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J4RRKDK20511BLFD.html?spss=dy_author">1992年在法国安装的太阳能电池板被发现保留了79%的原始输出功率</a>
+</h4>
+<div class="tail">
+<span class="time">2024-06-17 03:09</span>
+</div>
+</div>
+</li>
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/IUS30LF50511BLFD.html?spss=dy_author">
+<img alt="世界上最强大的核磁共振成像仪首次捕捉到令人惊叹的大脑扫描图像" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0403%2Ffd91a042j00sbcurb000sd000hs00cvg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/IUS30LF50511BLFD.html?spss=dy_author">世界上最强大的核磁共振成像仪首次捕捉到令人惊叹的大脑扫描图像</a>
+</h4>
+<div class="tail">
+<span class="time">2024-04-03 15:43</span>
+</div>
+</div>
+</li>
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/J7GF0LV40511BLFD.html?spss=dy_author">
+<img alt="玩家利用废旧空调部件在家中以每升1.29美元的价格生产液氮" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0719%2Fd2e8d0c0j00sgvmdl001ed000hs00alg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/J7GF0LV40511BLFD.html?spss=dy_author">玩家利用废旧空调部件在家中以每升1.29美元的价格生产液氮</a>
+</h4>
+<div class="tail">
+<span class="time">2024-07-19 23:44</span>
+</div>
+</div>
+</li>
+<li class="item mini">
+<a class="img" href="https://www.163.com/dy/article/IV1Q21370511BLFD.html?spss=dy_author">
+<img alt="哥伦比亚大学的研究证明远紫外光几乎能消灭所有工作场所的空气传播病毒" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0405%2Ffff6b9b0j00sbgyzp000td000hs00dcg.jpg&amp;thumbnail=124y70&amp;quality=95&amp;type=jpg"/>
+</a>
+<div class="desc">
+<h4>
+<a class="title" href="https://www.163.com/dy/article/IV1Q21370511BLFD.html?spss=dy_author">哥伦比亚大学的研究证明远紫外光几乎能消灭所有工作场所的空气传播病毒</a>
+</h4>
+<div class="tail">
+<span class="time">2024-04-05 21:02</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<ul class="list">
+<li><a href="https://ir.netease.com/">About NetEase</a></li>
+<li><a href="https://corp.163.com/gb/about/overview.html">公司简介</a></li>
+<li><a href="https://corp.163.com/gb/contactus.html">联系方法</a></li>
+<li class="noborder"><a href="https://corp.163.com/gb/legal.html">隐私政策</a></li>
+<li><a href="https://www.163.com/special/0077jt/tipoff.html">不良信息举报 Complaint Center</a></li>
+<li><a href="https://jubao.163.com/">廉正举报</a></li>
+</ul>
+<p class="copyright">©1997-2024 网易公司版权所有</p>
+</div>
+</div>
+</div>
+</div>
+<div class="totop"></div>
+</div>
+</link></div>
+<input hidden="" id="js-ename" value="T1477039371434"/>
+<script src="https://static.ws.126.net/utf8/assets/js/jquery-1.10.2.min.js"></script>
+<!-- 社交传播统计 -->
+<script src="https://static.ws.126.net/163/frontend/libs/antanalysis.min.js"></script>
+<script src="https://static.ws.126.net/163/frontend/antnest/NTM-KFGT6I8U-47.js"></script>
+<!-- 社交统计结束 -->
+<!-- 公共尾部引用 -->
+<!--无障碍功能-->
+<style type="text/css">
+.ntes-nav-wza,.ntes-nav-wzapage,.ntes-nav-wza-show{float: left;padding-left: 3px;margin-left: 2px;margin-right:10px;position: relative;}
+.ntes-nav-wza,.ntes-nav-wzapage{display: none;}
+.ntes-nav-wza-show{display: block;}
+/*.ntes-nav-wza:before{background: url(https://static.ws.126.net/163/f2e/www/index20170701/images/shilaohua_v2.png) -1px 0px;width: 14px;height: 12px;content: "";position: absolute;left: 2px;top: 16px;}*/
+</style>
+<a class="ntes-nav-wza" href="javascript:void(0)" id="cniil_wza" target="_self">无障碍浏览</a>
+<a class="ntes-nav-wzapage" href="javascript:void(0)" id="js_gowza" target="_self">进入关怀版</a>
+<script type="text/javascript">
+    (function(){
+        function wzaInit(){
+            var wza_link = document.getElementById("cniil_wza");
+            var gowza_link = document.getElementById("js_gowza");
+            var nav_left = document.getElementById("js_N_nav_left");
+            var ua = navigator.userAgent.toLowerCase();
+            var wzaUrl = document.getElementsByTagName("body")[0].getAttribute("aria-url");
+            if(!/ipad/i.test(ua) && wza_link && nav_left){
+                nav_left.appendChild(wza_link);
+                wza_link.className = "ntes-nav-wza-show";
+            }
+            if(!/ipad/i.test(ua) && gowza_link && nav_left && wzaUrl){
+                nav_left.appendChild(gowza_link);
+                gowza_link.setAttribute("href",wzaUrl);
+                gowza_link.className = "ntes-nav-wza-show";
+            }
+            wza_link.onclick = function () {
+                if(!window.ntm || !window.ntm.projectId)return;
+                var param = {
+                    "val_act": "wzanavclick",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param);
+            }
+            gowza_link.onclick = function () {
+                if(!window.ntm || !window.ntm.projectId)return;
+                var param = {
+                    "val_act": "wzapageclick",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param);
+            }
+            if ( window.addEventListener ) {
+                window.addEventListener("load", function(){wzaReport();}, false);
+            } else if ( window.attachEvent ) {
+                window.attachEvent("onload", function(){wzaReport();});
+            }
+        }
+
+        function wzaReport(){
+            setTimeout(function(){
+                if(!window.ntm || !window.ntm.projectId || document.getElementsByTagName('body')[0].className.indexOf("ariabodytopfiexed") < 0)return;
+                var param = {
+                    "val_act": "wza-default-open",
+                    "projectid": window.ntm.projectId
+                }
+                window.NTESAntAnalysis.sendData(param);
+            },3000);
+        }
+        wzaInit();
+    })();
+</script>
+<script charset="utf-8" src="https://static.ws.126.net/163/f2e/common/wza230620/aria.js?appid=a6655141bab6921b58446b4b806b9fbf" type="text/javascript"></script>
+<!-- 易信x -->
+<style>
+.ne-shares-pop6x1 li:first-child{display: none}
+.ne-shares-pop6x1 li {padding: 5px 0}
+</style>
+<script src="https://static.ws.126.net/163/f2e/news/author_index2022/static/js/main.d5449fe3.js" type="text/javascript"></script></body>
+</html>]
